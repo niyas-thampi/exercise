@@ -1,0 +1,19 @@
+
+.one{
+ width: 200px;
+ height: 200px;
+ background: red;
+ margin-bottom: 1rem;
+}
+.two{
+ width: 200px;
+ height: 200px;
+ background:green;
+ margin-bottom: 1rem;
+}
+.three{
+ width: 200px;
+ height: 200px;
+ background:yellow;
+ margin-bottom: 1rem;
+}
